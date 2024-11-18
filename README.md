@@ -25,3 +25,6 @@ Requirements:
 ## Completed Challenges
 
 1. WC Tool - Unix word count tool implementation
+
+## Coming soon
+- Tests for each challenge

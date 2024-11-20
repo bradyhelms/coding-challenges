@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Folders I'm not ready to upload
+json-parser

@@ -3,6 +3,10 @@
 #include <getopt.h>
 #include <stack>
 
+struct json_data {
+  
+};
+
 int main(int argc, char** argv) {
 
   if (argc == 1) {
